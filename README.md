@@ -19,3 +19,4 @@ NovaCare is an AI-driven platform designed to empower children in crisis zones b
 ### 🌐 Target Audience
 - 🤝 **Humanitarian Organizations**
 - 🫂 **Community Groups**: Track your progress with Elo rating system
+- 📝 **Educational Institutions**
