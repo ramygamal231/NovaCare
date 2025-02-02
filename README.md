@@ -11,6 +11,7 @@ NovaCare is an AI-driven platform designed to empower children in crisis zones b
 - **Emotional Well-Being Support:** Our AI-driven tools offer emotional support through encouraging messages and guided exercises, helping children manage trauma and stress effectively. 
 - **Child-Centric Design:** Specifically designed for children aged 4–12, the platform offers an engaging, interactive, and culturally relevant experience that fosters both learning and resilience.
 
+
 ## 🎯 Customer Segments
 
 ### 👶 Primary Users
@@ -21,3 +22,13 @@ NovaCare is an AI-driven platform designed to empower children in crisis zones b
 - 🫂 **Community Groups**
 - 📝 **Educational Institutions**
 - 💸 **Donors and Sponsors**
+
+
+## 👥 Team Members
+- **Dr.Yasir Javid**
+- **Ramy Gamal**
+- **Faisal Alghamdi**
+- **Mostafa Malisho**
+- **Mohammed Aaqib**
+- **Maha Alghamdi**
+- **Faisal Alfaraj**
