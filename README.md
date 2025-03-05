@@ -32,3 +32,8 @@ NovaCare is an AI-driven platform designed to empower children in crisis zones b
 - **Mohammed Aaqib**
 - **Maha Alghamdi**
 - **Faisal Alfaraj**
+
+
+## 🎬 Demo Video
+- **Link:** https://drive.google.com/file/d/1rLPeJPpVZrtSsxyb-0uJ4-DcmBUfaHH-/view?usp=drive_link
+
