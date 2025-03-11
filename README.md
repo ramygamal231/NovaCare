@@ -2,7 +2,7 @@
 
 ![NovaCare Logo](https://github.com/ramygamal231/NovaCare/blob/main/NovaCare%20Logo.png)
 
-## 👦 Because Every Child’s Future Matters
+## 👦 Because Every Child’s Future Matters 
 
 NovaCare is an AI-driven platform designed to empower children in crisis zones by providing education and emotional support. Through interactive, multilingual lessons and real-time emotional interventions, NovaCare bridges the gap in education and mental health care. Its offline functionality ensures accessibility even in low-resource settings, fostering resilience, hope, and development for children facing adversity.
 
