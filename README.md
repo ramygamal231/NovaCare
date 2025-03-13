@@ -15,7 +15,7 @@ NovaCare is an AI-driven platform designed to empower children in crisis zones b
 ## 🎯 Customer Segments
 
 ### 👶 Primary Users
-- **Children in crisis zones (Aged 4 - 12)**
+- **Children in crisis zones (Aged 4 - 12)** 
 
 ### 🌐 Target Audience
 - 🤝 **Humanitarian Organizations**
